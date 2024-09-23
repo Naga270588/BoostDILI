@@ -18,7 +18,7 @@ This project contains a machine learning model, along with the necessary code to
 
 ### Clone the repository
 `git clone https://github.com/Naga270588/BoostDILI.git`
-`cd Genotoxicity`
+`cd BoostDILI`
 
 ## Usage
 To use this project, open the Jupyter Notebook: `jupyter notebook`
