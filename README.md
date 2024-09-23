@@ -17,7 +17,7 @@ This project contains a machine learning model, along with the necessary code to
 - `os`
 
 ### Clone the repository
-`git clone https://github.com/Naga270588/Genotoxicity.git`
+`git clone https://github.com/Naga270588/BoostDILI.git`
 `cd Genotoxicity`
 
 ## Usage
