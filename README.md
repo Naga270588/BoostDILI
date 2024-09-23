@@ -13,6 +13,8 @@ In this study, we developed an XGBoost powered machine learning model for DILI p
 - `numpy`
 - `pandas`
 - `scikit-learn`
+- `RDkit`
+- `Mordred community`
 - `os`
 
 ### Clone the repository
